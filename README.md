@@ -22,4 +22,4 @@ A basic calculator application built with Tkinter, supporting basic arithmetic o
 ## Installation
 To run the calculator, ensure you have Python and Tkinter installed. Then execute the following command:
 ```sh
-python calculator.py
+calc.py
